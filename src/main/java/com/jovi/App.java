@@ -8,7 +8,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * Hello world!
  *
  */
-// Spring Boot 应用的标识
 @SpringBootApplication
 @MapperScan("com.jovi.mapper")
 public class App
